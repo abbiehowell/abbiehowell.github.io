@@ -1,0 +1,11 @@
+{
+  "name": "abbiehowell.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:abbiehowell/abbiehowell.github.io.git",
+  "author": "Abbie Howell <abbieh@theodo.co.uk>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.10"
+  }
+}
